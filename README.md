@@ -6,7 +6,7 @@
 Hariharapanda Deepak is a passionate educator and AI skill enhancer with extensive experience in the fields of data science and artificial intelligence. As a Senior Data Scientist at Interim Solutions, he specializes in developing innovative AI-driven solutions to address complex real-world challenges. With a strong commitment to knowledge sharing, he actively mentors aspiring data scientists and empowers professionals to upskill in emerging AI technologies. Deepak's expertise spans advanced machine learning, deep learning, and computer vision, making him a key contributor to groundbreaking projects in AI and data analytics. His dedication to education and innovation defines his impactful career.
 
 <div style="float: right; margin-left: 20px;">
-    <img src="https://github.com/user-attachments/assets/6d5f5dbc-e637-4bdf-832f-5249c2910683" alt="Hariharapanda Deepak" width="150">
+    <img src="https://github.com/user-attachments/assets/1c52e3c4-01b1-42ce-b3bb-158b74e7f248" alt="Hariharapanda Deepak" width="150">
 </div>
 
 You can connect with him on [LinkedIn](https://www.linkedin.com/in/deepak-hariharapanda-391580ab/).
